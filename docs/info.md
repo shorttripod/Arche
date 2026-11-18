@@ -8,9 +8,17 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
+## How it works
 
-Explain how your project works
+This project implements the Arche hardware compaction datapath for edge NPU activation sparsity acceleration.
 
+## How to test
+
+Run the cocotb testbench in the `test` directory to verify input data compaction and output valid signals.
+
+## External hardware
+
+None
 ## How to test
 
 Explain how to use your project
